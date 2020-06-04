@@ -1,6 +1,7 @@
 {
-  "name": "com.augusitnas.xddd",
+  "name": "com.augustinas.testPrefab",
   "version": "1.2.3",
-  "displayName": "MyCustomPackagexdd",
-  "description": "This is an example package"
+  "displayName": "PrefabTest",
+  "description": "This is an example package with a single Prefab",
+  "hideInEditor": false
  }
